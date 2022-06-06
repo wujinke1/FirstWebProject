@@ -6,5 +6,6 @@ public class TestDemo4 {
         System.out.println("TestDemo4 Git");
         System.out.println("TestDemo4 Git");
         System.out.println("TestDemo4 Git");
+        System.out.println("pull Git");
     }
 }
